@@ -82,12 +82,10 @@
 [java]: https://www.java.com/pt_BR/
 
 
-<br>
-<br>
-
 <!-- BLOG POOST WOORKFLOW GHACTIONS -->
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 
+<br>
 ---
 <br>
 
