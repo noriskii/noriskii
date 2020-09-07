@@ -16,8 +16,6 @@
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I Love Lettering :heart:
 
-<br>
-
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-playing-eta.vercel.app/api/spotify)](https://open.spotify.com/user/12153282884)
 
