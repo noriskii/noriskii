@@ -2,7 +2,7 @@
 <!--**noriskii/noriskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1 align="center">Hi 👋, I'm Lucas Augusto Silva, aka Lucks</h1>
 
-<h2 align="center">I'm the best Boyfriend ever, Developer and Design Lover!</h2>
+<h3 align="center">I'm the best Boyfriend ever, Developer and Design Lover!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noriskii" alt="Noriskii | Github" /> 
@@ -88,9 +88,17 @@
 <!-- BLOG POOST WOORKFLOW GHACTIONS -->
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 
-
+---
 
 <details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+</details>
+
+<details>
+
   <summary>:zap: My Github Stats</summary>
 
   ![Luck's github stats](https://github-readme-stats.vercel.app/api?username=noriskii&show_icons=true&count_private=true&theme=tokyonight)
