@@ -11,15 +11,15 @@
 <br>
 
 - 🔭 I’m currently working on my personal blog and portfolio
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate ...
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning React and NextJS
+- 👯 I’m looking to collaborate with **YOU**
+- 💬 Ask me about anything!
 - ⚡ Fun fact: I Love Lettering :heart:
 
 <br>
+
+### Spotify Playing 🎧
+[![Spotify](https://spotify-playing-eta.vercel.app/api/spotify)](https://open.spotify.com/user/12153282884)
 
 ### Stay Tunned in me:
 
