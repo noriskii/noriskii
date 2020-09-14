@@ -10,11 +10,11 @@
 
 <br>
 
-- 🔭 I’m currently working on my personal blog and portfolio
-- 🌱 I’m currently learning React and NextJS
-- 👯 I’m looking to collaborate with **YOU**
+- 🔭 Working on my personal blog and portfolio
+- 🌱 **WIP**: Learning learning React and NextJS
+- 👯 Available to collaborate with **YOU**
 - 💬 Ask me about anything!
-- ⚡ Fun fact: I Love Lettering :heart:
+- ⚡ Fun fact: I Love Lettering :heart:!
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-playing-eta.vercel.app/api/spotify)](https://open.spotify.com/user/12153282884)
